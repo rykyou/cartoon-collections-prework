@@ -1,6 +1,7 @@
 def roll_call_dwarves(array)
   array.collect do |name|
     puts name 
+    name 
   end 
 end
 
